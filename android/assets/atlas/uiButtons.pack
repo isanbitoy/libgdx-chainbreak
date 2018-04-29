@@ -1,0 +1,96 @@
+
+uiButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_pressed
+  rotate: false
+  xy: 1, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+button_unpressed
+  rotate: false
+  xy: 51, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+left_down
+  rotate: false
+  xy: 101, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+left_up
+  rotate: false
+  xy: 151, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+level_locked
+  rotate: false
+  xy: 201, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+menu_pressed
+  rotate: false
+  xy: 251, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+menu_unpressed
+  rotate: false
+  xy: 301, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+next_pressed
+  rotate: false
+  xy: 351, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+next_unpressed
+  rotate: false
+  xy: 401, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+restart_pressed
+  rotate: false
+  xy: 451, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+restart_unpressed
+  rotate: false
+  xy: 501, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+right_down
+  rotate: false
+  xy: 551, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+right_up
+  rotate: false
+  xy: 601, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32" nextobjectid="79">
+ <tileset firstgid="1" name="tileSet" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="105" columns="15">
+  <image source="tileSet.png" width="512" height="256"/>
+ </tileset>
+ <layer name="bg" width="20" height="15">
+  <data encoding="csv">
+98,98,52,52,52,69,52,98,98,98,98,6,98,98,52,69,69,52,98,98,
+98,6,6,52,98,98,6,52,69,52,98,98,98,52,98,98,52,98,98,98,
+52,98,98,52,6,52,52,69,6,52,6,69,98,98,6,98,6,98,69,98,
+98,52,52,6,98,98,98,69,98,98,98,98,52,6,98,98,98,6,98,98,
+98,52,6,69,98,33,98,6,6,98,33,98,6,6,98,33,98,69,6,98,
+98,98,69,6,98,98,98,6,52,98,98,98,6,6,98,98,98,6,52,98,
+52,6,98,52,52,6,91,91,53,6,52,98,6,98,6,98,6,6,6,69,
+98,98,98,6,69,91,91,52,98,98,6,98,98,98,98,91,91,98,98,98,
+52,98,52,6,91,91,91,52,98,6,98,52,98,52,91,91,91,98,52,69,
+69,52,98,98,37,91,52,98,52,52,6,52,6,91,91,91,101,52,6,98,
+6,98,98,98,98,98,6,98,98,98,98,98,6,91,91,98,98,98,98,98,
+52,54,91,54,6,98,98,6,54,91,54,6,37,91,91,6,54,91,54,6,
+98,54,91,54,98,6,98,98,54,91,54,69,69,69,6,69,54,91,54,69,
+98,98,98,98,98,69,98,98,98,98,98,98,98,98,98,98,98,98,98,98,
+98,98,98,98,98,98,98,98,98,98,98,98,98,98,98,98,98,98,98,98
+</data>
+ </layer>
+ <layer name="tile" width="20" height="15">
+  <data encoding="csv">
+47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,47,
+0,0,47,1,0,0,0,0,0,0,47,47,1,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,92,63,92,0,0,63,0,0,0,63,47,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,92,92,0,0,0,0,0,0,0,
+92,47,92,92,92,47,92,92,92,47,92,92,47,92,92,92,92,47,92,92,
+47,47,47,47,47,47,47,92,47,47,47,47,47,47,92,92,47,47,47,47
+</data>
+ </layer>
+ <objectgroup name="Polyline">
+  <object id="47" x="0" y="416">
+   <polyline points="0,0 352,0 352,-32 416,-32 416,0 640,0"/>
+  </object>
+  <object id="62" x="416" y="162">
+   <polyline points="0,0 0,30 32,30 32,-2 0,-2"/>
+  </object>
+  <object id="63" x="160" y="160">
+   <polyline points="0,0 0,32 32,32 32,0 0,0"/>
+  </object>
+  <object id="64" x="128" y="160">
+   <polyline points="0,0 0,32 -32,32 -32,0 0,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Chain">
+  <object id="4" x="128" y="160" width="32" height="32"/>
+  <object id="5" x="256" y="160" width="32" height="32"/>
+  <object id="7" x="384" y="160" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Actor">
+  <object id="9" x="128" y="224" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Pad"/>
+ <objectgroup name="Spike">
+  <object id="22" x="256" y="384" width="32" height="32"/>
+  <object id="23" x="288" y="384" width="32" height="32"/>
+  <object id="51" x="512" y="384" width="32" height="32"/>
+  <object id="52" x="544" y="384" width="32" height="32"/>
+  <object id="53" x="576" y="384" width="32" height="32"/>
+  <object id="74" x="32" y="384" width="32" height="32"/>
+  <object id="75" x="64" y="384" width="32" height="32"/>
+  <object id="76" x="96" y="384" width="32" height="32"/>
+  <object id="77" x="128" y="384" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Fire">
+  <object id="42" x="256" y="128" width="32" height="32"/>
+  <object id="65" x="384" y="352" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Lava"/>
+ <objectgroup name="Explosive">
+  <object id="66" x="448" y="384" width="32" height="32"/>
+  <object id="78" x="192" y="384" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Portal">
+  <object id="45" x="512" y="224" width="32" height="32">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup name="ArrowA"/>
+ <objectgroup name="ArrowB"/>
+</map>

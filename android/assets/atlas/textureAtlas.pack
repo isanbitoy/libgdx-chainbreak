@@ -1,0 +1,201 @@
+
+textureAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 631
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 557
+  size: 448, 72
+  orig: 448, 72
+  offset: 0, 0
+  index: -1
+wormHoleSprite
+  rotate: false
+  xy: 1, 491
+  size: 448, 64
+  orig: 448, 64
+  offset: 0, 0
+  index: -1
+warpSprite
+  rotate: false
+  xy: 1, 441
+  size: 432, 48
+  orig: 432, 48
+  offset: 0, 0
+  index: -1
+leftSwing
+  rotate: false
+  xy: 1, 391
+  size: 384, 48
+  orig: 384, 48
+  offset: 0, 0
+  index: -1
+rightSwing
+  rotate: false
+  xy: 1, 341
+  size: 384, 48
+  orig: 384, 48
+  offset: 0, 0
+  index: -1
+deadSprite
+  rotate: false
+  xy: 643, 943
+  size: 336, 48
+  orig: 336, 48
+  offset: 0, 0
+  index: -1
+blastSprite
+  rotate: false
+  xy: 1, 307
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+blueFlame
+  rotate: false
+  xy: 643, 909
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+lavaSprite
+  rotate: false
+  xy: 1, 273
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+purpleFlame
+  rotate: false
+  xy: 643, 875
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+redFlame
+  rotate: false
+  xy: 1, 239
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+arrowA
+  rotate: false
+  xy: 643, 841
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+arrowB
+  rotate: false
+  xy: 1, 205
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+backIcon
+  rotate: false
+  xy: 451, 529
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+infoIcon
+  rotate: false
+  xy: 259, 239
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 643, 739
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 1, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pauseIcon
+  rotate: false
+  xy: 643, 637
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+playIcon
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spikeSprite
+  rotate: false
+  xy: 195, 219
+  size: 128, 18
+  orig: 128, 18
+  offset: 0, 0
+  index: -1
+idleExplorer
+  rotate: false
+  xy: 901, 893
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+crate
+  rotate: false
+  xy: 387, 407
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+greenBarrel
+  rotate: false
+  xy: 981, 959
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+redBarrel
+  rotate: false
+  xy: 837, 841
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+spring
+  rotate: false
+  xy: 451, 495
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+yellowBarrel
+  rotate: false
+  xy: 553, 597
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+chain
+  rotate: false
+  xy: 435, 483
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
